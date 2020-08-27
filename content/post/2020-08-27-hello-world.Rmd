@@ -1,0 +1,35 @@
+---
+title: Hello World
+author: Stephan van der Putten
+date: '2020-08-27'
+slug: hello-world
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-08-27T12:13:22+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+# Hello World
+
+As is tradition, I want to start my first blog post with Hello World! My name is Stephan and I have been interested in many nerdy stuff since I was young. One of my characteristics is to try new stuff, which led me to create my first personal blog. 
+
+A little bit about myself, I'm currently a last year graduate student of University Leiden of the computer science Msc track. <https://www.universiteitleiden.nl/> Check it out! I'm half dutch-half phillipine and raised in the Netherlands. 
+I have multiple hobbies that include but are not limited to: reading, go to the gym, watch the tv/movie classics, try new stuff, develop, self-improve, learning.
+My jobs are currently student coach at the university, (co)-owner of [SES Studiehuis](https://www.sesstudiehuis.nl) and being a full-time student (I see it as a job).
+
+
+I hope to use this blog to keep track of what I learn and do this year. Maybe note down some useful stuff that I learn along the way. A quick expectation of coming year:
+
+- [ ] Write an R package.
+- [ ] Write a book.
+- [ ] ...
+- [ ] Profit!

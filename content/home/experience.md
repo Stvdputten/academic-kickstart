@@ -17,28 +17,45 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Web developer"
+  company = "Akida"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = "2018-05-01"
+  date_end = "2018-09-01"
+  description = """Using the Django framework to create a web app w.r.t. online tenders."""
+
+[[experience]]
+  title = "Commissionary Promotion"
+  company = "Science Career Event"
+  company_url = "www.betabanenmarkt.nl"
+  location = "Leiden"
+  date_start = "2018-05-31"
+  date_end = "2019-05-31"
+  description = """A board year for which I was responsible of all the promotional channels within to organise an event for over 1000 science students at Leiden University"""
+  
+[[experience]]
+  title = "Owner"
+  company = "SES Studiehuis"
+  company_url = "www.sesstudiehuis.nl"
+  location = "Oegstgeest"
+  date_start = "2019-10-04"
   date_end = ""
-  description = """
+  description = """Coaching and training high school students to improve their learning skills. \n
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Founder of the company
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Student Coach"
+  company = "University Leiden"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Leiden"
+  date_start = "2020-09-01"
+  date_end = "2021-01-31"
+  description = """Coaching and creating an online community w.r.t. 1st year Msc Computer Science students"""
 
 +++
