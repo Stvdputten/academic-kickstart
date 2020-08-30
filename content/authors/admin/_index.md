@@ -28,10 +28,10 @@ education:
   courses:
   - course: Msc in Computer Science
     institution: Leiden University
-    year: 2018 
+    year: 2021 
   - course: Bsc in IT & Economics
     institution: Leiden University & Erasmus University
-    year: 2014
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
