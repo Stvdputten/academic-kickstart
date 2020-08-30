@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I am a graduate student"
+bio: "I am a work in progress"
 
 interests:
 - Learning
