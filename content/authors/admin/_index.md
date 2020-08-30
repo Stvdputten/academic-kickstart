@@ -23,13 +23,12 @@ bio: "I am a graduate student"
 interests:
 - Learning
 - Reading
-- Flutter
 
 education:
   courses:
   - course: Msc in Computer Science
     institution: Leiden University
-    year: 2021 
+    year: 2018 
   - course: Bsc in IT & Economics
     institution: Leiden University & Erasmus University
     year: 2014
@@ -62,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-Stephan van der Putten is a graduate student of data science at University Leiden. He's currently in his last year of his 2 year master. 
+This website is actually focused on my personal blog. I'm trying to document my year with the goal to evaluate how much can happen in 1 year. Take a look around if you like.
