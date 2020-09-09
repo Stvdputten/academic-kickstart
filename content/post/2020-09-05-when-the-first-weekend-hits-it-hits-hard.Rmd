@@ -35,4 +35,4 @@ p.s. I think I like flutter a lot.
 
 [previous post](/2020/08/30/starting-the-year/)
 
-[next post](#)
+[next post](/2020/09/09/funny-you-might-ask)
