@@ -30,7 +30,7 @@ I hope to use this blog to keep track of what I learn and do this year. Maybe no
 - [ ] Keep a blog.
 - [ ] Write a summary on my experiences.
 - [ ] Get a driver's license.
-- [ ] Intership.
+- [ ] Internship.
 - [ ] Be surprised by something.
 
 [next post](/2020/08/30/starting-the-year/)

@@ -1,0 +1,61 @@
+---
+title: No Mercy
+author: Stephan van der Putten
+date: '2020-09-21'
+slug: no-mercy
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-09-21T13:44:38+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Hi, sorry for this late post anonymous reader. I had a busy week, which gives me extra reason to relax. The title, by the way, is a reference to Cobra Kai the Netflix serie. The serie is the sequel to [The Karate Kid](https://www.imdb.com/title/tt0087538/) trilogy. I have not seen all of them, but I do use the theme to get myself motivated, so listen to it when you feel down. Anyways my usual summary of the week will follow below.
+
+I took a break of sporting, because by elbow still sort of hurts from boxing a few weeks ago. Never try to hit something as hard as you can and fail keeping your muscles tight. Oh a lot has happened so let's use a checklist:
+
+- [x] Have a drink with mentees (and go way 2 hard).
+- [x] Get clarity about my job as mentor.
+- [x] Friends randomly dropping by drunk and whatever.
+- [x] Watch awesome series during a hangover.
+- [x] Visit the student association again (and get drunk).
+- [x] Go drink with my podcast mates.
+- [ ] Watch the movie Miller's Crossing and understand the movie.
+- [x] Finish my assignment one hour before the deadline on Sunday.
+- [ ] Get paid to create an easy static website (at least I got the job).
+- [x] Enjoy the sun and visit a silent disco for old people.
+- [x] Clean my house in the morning on Monday.
+- [x] Plan a Zoom meeting with a professional organization about teaching students how to learn.
+
+I really do not understand statistics, it feels like the harder I try to understand it the harder it gets to be understood. More people probably feel that way. So maybe I should try to work on that, asking for help it hard.
+It seems a lot of preparation should be performed for my Master thesis so I should start working on that. I did not finish my Anki retrieval cards this week. I am halfway through The 7 Deadly Sins. I did not read or get a lot of work done on my android develop/java career. My tutoring company still needs to be worked upon.
+
+This week is going to be a little bit different. I'm going to create a list again, but this should be what I expect to do this week.
+
+- [ ] Complete ASC before sunday.
+- [ ] Complete Java book.
+- [ ] Halfway through Flutter.
+- [ ] Got to the gym again.
+- [ ] SEO of my website.
+- [ ] Transition to new host.
+- [ ] Attend Master Class.
+- [ ] Do a 1-1 with the mentees.
+- [ ] Ankify my courses.
+- [ ] Start working on my Master Thesis prep (call Bas).
+- [ ] Perform a good homework tutoring session.
+- [ ] Prepare the Tutoring Session workbook.
+- [ ] Do not have a hangover.
+- [ ] Meditate each day.
+
+Okay it seems like a lot. However it's also a nice challenge. See you again next week.
+
+[previous post](/2020/09/12/a-lot-can-change-in-a-few-days)
+
+[next post](#)
