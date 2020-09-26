@@ -1,0 +1,63 @@
+---
+title: Beginning and End
+author: Stephan van der Putten
+date: '2020-09-26'
+slug: beginning-and-end
+categories: []
+tags: []
+subtitle: ''
+summary: 'How far did I get with my to-do list?'
+authors: []
+lastmod: '2020-09-26T10:10:22+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Well, well, well. Nice to see who's back! Again.
+
+Last week on, Dragonball z.... I mean my life. I kept a to-do list, which was quite extensive. Let's us see:
+
+- [ ] Complete ASC before Sunday.
+I'm gonna work on it today.
+- [ ] Complete Java book.
+I have 2 chapters to go
+- [x] Halfway through Flutter.
+Done!
+- [x] Got to the gym again.
+Has been done!
+- [ ] SEO of my website.
+Mmh this was maybe a bit ambitious, however I figured out how.
+- [x] Transition to new host.
+Took a day of my life, but everything is up and running.
+- [x] Attend Master Class.
+Yeah not that relevant though
+- [x] Do a 1-1 with the mentees.
+2/3th through, however all have been planned and that takes most of the time. I created a quick check-up list, which sort of works. I did learn a lot about how other students are/work.
+- [ ] Ankify my courses.
+Uh no, I should do this. Actually this is sort of summarizing but with tests.
+- [x] Start working on my Master Thesis prep (call Bas).
+Yeah, was weird talking to him. I do have to start on this seriously next week. However Bas did say that most people start seriously next year.
+- [x] Perform a good homework tutoring session.
+Oh wow this is something I wanted? Well I had 2 sessions this week and both went above average for me.
+- [ ] Prepare the Tutoring Session workbook.
+Not really done yet with that, however I did get some really good sources to work on. Better to do it well than just do it.
+- [x] Do not have a hangover.
+I did, surprisingly hard actually. Had 0.0% cans of beer, that experience was different.
+- [ ] Meditate each day.
+Not on my mind, so I did fail this one. However I did meditate, just not daily.
+
+Well my week ends on Sunday and starts on Monday, so I still have time to go complete some of the remaining tasks. Productivity has been high this week. Statistics is something I still hate to perform, the homework assignments are tough. 
+
+I had 1-1 meetings as a mentor. Jezus what does planning and meeting up with people take time. I'll never do this one again for my remaining mentorship, however I do think most of them appreciate the personal 1 on 1 time. I also learned a lot of this. Each student has a unique flavor to get things done, some simply get things done, other rotate between work hard and chill hard. It gives me some perspective on my own student time. For example, in comparison to most I do work a lot but not productive enough. Maybe I'm just too hard on myself.
+
+I started thinking about my master thesis. Yeah that's really it. Who knows what direction it might go?
+
+That's it for this week. See you all next time, my beloved fans!
+
+[previous post](/2020/09/21/no-mercy)
+
+[next post](#)
