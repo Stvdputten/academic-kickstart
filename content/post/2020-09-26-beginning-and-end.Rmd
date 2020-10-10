@@ -21,7 +21,7 @@ Well, well, well. Nice to see who's back! Again.
 
 Last week on, Dragonball z.... I mean my life. I kept a to-do list, which was quite extensive. Let's us see:
 
-- [ ] Complete ASC before Sunday.
+- [ ] Complete my Advanced Statistical Computing homework before Sunday.
 I'm gonna work on it today.
 - [ ] Complete Java book.
 I have 2 chapters to go
