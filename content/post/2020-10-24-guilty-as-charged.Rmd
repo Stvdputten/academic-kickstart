@@ -6,7 +6,7 @@ slug: guilty-as-charged
 categories: []
 tags: []
 subtitle: ''
-summary: ''
+summary: 'We all have to white lie sometimes.'
 authors: []
 lastmod: '2020-10-24T15:58:38+02:00'
 featured: no
@@ -36,4 +36,4 @@ Okay anyways, the remaining week has been me in my bed just sleeping a lot. So n
   
 [previous post](/2020/10/19/alright-you-got-me)
 
-[next post](#)
+[next post](/2020/10/31/the-paradox-of-living)
