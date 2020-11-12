@@ -1,0 +1,38 @@
+---
+title: It's so cold and winter has just started
+author: Stephan van der Putten
+date: '2020-11-12'
+slug: it-s-so-cold-and-winter-has-just-started
+categories: []
+tags: []
+subtitle: ''
+summary: 'Long weeks causes late post'
+authors: []
+lastmod: '2020-11-12T09:48:44+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Remember my last post? Nor do I, it has been such a long time and boy am I happy to have survived. I can easily say that I have pushed myself to 120\% the last few weeks. That's why I hard to work hard and relax hard, which caused this update/post to be delayed till today.  So let's get back to what I said in my previous post about nice things coming up. 
+
+Well I'm not sure what I meant back then because the last 2 weeks have been everything but nice. In two weeks I have almost worked day and night, pulling several days to past 2 AM, one night got so crazy I worked till 4-5 AM. If you know me I try to value my sleep highly so staying up past a certain time is very uncommon for me. I had to finish Advanced Statistical Computing (got an 7 for my final homework assignment and I think 7.5 as final grade). Seminar Distributed Data Mining for which I had to work 3 days on DAS-5 super computer to print out all kinds of Frequent Itemset Mining stuff. Finish my first assignment of Distributed Data Processing Systems. 
+
+So in the case ASC and its singular all nighter didn't push me to my limits, DDPS was much worse. Imagine having a team mate and working on this assignment for 2 months, except you think you are a team but your team mate doesn't do shit. Well I don't think this probably sounds unfamiliar to most people. If you have a deadline around the corner and your team mate doesn't help jack shit because he's busy, how am I supposed to finish the assignment myself? I met up with him a week before the deadline to divide the tasks and to ask his schedule. Well okay you are busy fine, however could you at least do x y z for me. When time came, he didn't do his shit and above all he didn't communicate with myself clearly when he would be able to help (he told me he would be able to help on Wednesday except it turned out to be Thursday which resulted him only showing up on Friday). And imagine your team mate turns up on the day of the deadline after you have been working several days till 2 AM just to tell you he's had a hard week and can only stay for 3 hours because afterwards he has to work. Well fuck this guy. I had enough and I had to discuss this with the teacher and because I also had to do a presentation the next week with this guy for the same course DDPS I couldn't flick him the finger immediately. By the way we turned in the deadline 2 days later and he only helped on Saturday. One example of the brilliance of this guy was on Saturday after he created some figures from my data and I asked him if he could write about the figures, so his response was: "I can't write about the results, I didn't do the experiments". The reason such an statement is stupid is 1) He didn't do any experiments because he wasn't there all week 2) I'm not asking him to write down the interpretation but he should be at least be able to explain what we see on the figures 3) meant that I should write everything myself because he did so little 4) said he had to go because friends are over. On Sunday I turned it in again, I had to work till 5 because I/we misinterpreted the assignment so I had to do some more experiments which made it very late. I really have to push myself that week, motivate myself to jump back in on the work. Workout at home to manage the stress. Had to ask friends to fall in for myself for work so that I could keep my mind on the assignment. The only positive thing was that I could focus almost exclusively on the assignment. Finally after our presentation on Tuesday I told him I wanted to grade the assignment individually (my teacher propsed this) and as such we had to clearly define who did what and send it to my teacher. When I told it to my team mate, that A) He didn't do shit and I don't want to share the credits with him B) It was horrible working last week on the assignment because he couldn't communicate C) I would rather work on the second assignment myself than with him. Guess what his reaction was? Well I was apparently screwing him over. So yeah after a long long week of practically doing everything myself, he said he himself was the victim. I really do not understand this perspective. 
+
+Okay so if you read my previous paragraph all the way and I hope I clearly told my story. Do know that I asked the teacher if my team mate could retake the assignment as such he can pass the course if he just does the work normally on his own. So I'm not failing him. After this exhausting week I went on a drinking spree for 2 days and made plans with friends to hang out. I do feel guilt and after hearing him saying he was the victim I was thinking he must be socially inept or something must be wrong with him. I think he beliefs his whole world only centers around him, sadly.
+
+My tutoring company work was interesting, the village center where we work got closed immediatly by the safety region department. So from one day to another we had to move our work from Oegstgeest to Leiden. My colleagues did some quick work, some parent where okay other wanted to finally be compensated. I hope the village center reopens on the 18th. On the other hand my tutoring at University Leiden was also easy, I just created an open session where students could join if they had anything to talk about. Most people had deadlines so only two students dropped by and it were some nice talk.
+
+I started watching the Queens Gambit, nice story about an underdog girl. I'll keep you posted as soon as I finished it.
+
+I do want to end on a positive note though, I got another friend of mine who wants me to work on a quick website. That's nice and easy money. Oh a nice trick if you want to save money and feel like you got to be frugal, just don't show your savings on your mobile banking app. That's all for this week. I hope I learn something from this last two weeks, which basically means choose your team mates carefully. Oh I started drinking cofee again and biting my nails because of all the stress. Dammit.
+
+
+
+[previous post](/2020/10/31/guilty-as-charged)
+
+[next post](#)
