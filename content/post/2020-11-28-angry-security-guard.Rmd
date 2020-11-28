@@ -6,7 +6,7 @@ slug: angry-security-guard
 categories: []
 tags: []
 subtitle: ''
-summary: ''
+summary: 'I ate some nice food with friends, however this post is completely about something else.'
 authors: []
 lastmod: '2020-11-28T20:49:51+01:00'
 featured: no
