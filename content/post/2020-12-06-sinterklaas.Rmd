@@ -1,0 +1,36 @@
+---
+title: Sinterklaas
+author: Stephan van der Putten
+date: '2020-12-06'
+slug: sinterklaas
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-06T13:06:39+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+I have a hangover, oooooh. I've been drinking too much for sure. 
+
+Anyways yesterday was Sinterklaas a dutch unofficial holiday. I spent it with some friends and we gave each other presents and wrote nice rhymes. I'm really bad at writing rhymes but it was fun nonetheless. I feel hung over, I intend to keep this week short. So let's talk about coming week and last week.
+
+I did some touches on my master thesis and got the benchmarks working. I learned a lot about the cloud providers and use multiple of their services for my second assignment and master thesis. I got an in-depth examination of Docker. I fought with the monster Kubernetes. I danced with the network issues. In short a lot of new things once again. Anyways next up I have to choose my research proposal. Not sure what to do yet. 
+
+Only 2 weeks left till Christmas. I really want to get my shit done. Only two projects remaining:
+
+- SL assignment 2
+- DDPS assignment 2
+
+I have been working hard on the last on this weekend. I'm interested to see how far I can get with Kubernetes today.
+I wish myself the best of luck.
+
+[previous post](/2020/11/28/angry-security-guard)
+
+[next post](#)
