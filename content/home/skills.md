@@ -50,6 +50,11 @@ subtitle = "A brief overview of the skills I have aggregated over time"
   name = "Apache Spark"
   # description = "100%"  
 
+[[feature]]
+  icon = "hadoop"
+  icon_pack = "custom"
+  name = "Hadoop"
+  # description = "100%"  
 
 [[feature]]
   icon = "cplusplus-line"
@@ -145,6 +150,60 @@ subtitle = "A brief overview of the skills I have aggregated over time"
   icon = "ruby"
   icon_pack = "custom"
   name = "Ruby"
+  # description = "100%"  
+  
+[[feature]]
+  icon = "aws-logo"
+  icon_pack = "custom"
+  name = "AWS"
+  # description = "100%"  
+  
+[[feature]]
+  icon = "azure-1"
+  icon_pack = "custom"
+  name = "Azure"
+  # description = "100%"  
+  
+[[feature]]
+  icon = "google-cloud"
+  icon_pack = "custom"
+  name = "Google Cloud"
+  # description = "100%"  
+  
+[[feature]]
+  icon = "bash-1"
+  icon_pack = "custom"
+  name = "Bash"
+  # description = "100%"  
+  
+[[feature]]
+  icon = "bootstrap-4"
+  icon_pack = "custom"
+  name = "Bootstrap"
+  # description = "100%"  
+  
+[[feature]]
+  icon = "github-icon-1"
+  icon_pack = "custom"
+  name = "Github"
+  # description = "100%"  
+  
+[[feature]]
+  icon = "kubernets"
+  icon_pack = "custom"
+  name = "Kubernetes"
+  # description = "100%"  
+  
+[[feature]]
+  icon = "nginx-1"
+  icon_pack = "custom"
+  name = "Nginx"
+  # description = "100%"  
+  
+[[feature]]
+  icon = "raspberry-pi"
+  icon_pack = "custom"
+  name = "Raspberry Pi"
   # description = "100%"  
 # Uncomment to use emoji icons.
 # [[feature]]
