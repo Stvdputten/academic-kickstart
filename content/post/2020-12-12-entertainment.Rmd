@@ -1,0 +1,66 @@
+---
+title: Entertainment
+author: Stephan van der Putten
+date: '2020-12-12'
+slug: entertainment
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-12T13:42:23+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Dear diary, today is Saturday. The day that I write whatever happened in my last week and try to reflect on my week. First I learned a lot this week. I cracked the code and finally finished my book. Furthermore I got my board year financial compensation. What will I do with the money? Finally I'll just write about the first thing that comes to my mind to finish the day.
+
+This week has been quite the experience. I got to work on a lot of technologies. One thing that does help me. When I'm learning and I feel that I don't know something well, while I should. I just write the term or idea down and look it up later with Youtube video's. This easy way fills some gaps in my knowledge. So I finally understand:
+
+- Kubernetes (Reading and online tutorial helped)
+- Docker (Online tutorial helped)
+- Started with Terraform (Intro)
+- Learned that Scala is the best paid language
+- Cassandra (Deploying on Kubernets)
+- Tmux (Read the book)
+- Cloud providers cli: gcloud/aws/az
+- Flask (Creating quick front-end for an app)
+
+Basically I'm trying to expand my knowledge of the cloud native landscape. I should probably develop more apps, because DevOps is nice but it is still supportive of the actual app development or do some more open-source contributions. 
+
+I can't remember much from last week. It felt like I wasted a lot of days. I woke up late (10-12 am) and when I finally got going I went to work at 15. In the evening I don't do much. One way I handled my laziness was by using more passive mediums, like audible to read my books. I finally finished 'The Silmarillion'. I had that back already for 6 years.
+
+Next up I suddenly received an update on my financial bonus for my board year. I got 2.1k. Nice! What should I do with that money? I have some ideas:
+
+- Buy a bike 
+- Buy a desktop
+- Buy some raspberry pi's for server stuff
+- Get a driver's license
+- Upgrade my current home with some much needed interior
+- Buy a new laptop
+- Safe it for later
+- Invest a bit
+- Pay off some debts
+- Cloths
+- Bigger TV
+- Vacation
+- Nothing
+- Pet
+- Girlfriend
+- Invest in my work
+- Food
+- Gym subscription
+
+Yeah so please contact me if you have some good ideas. Not sure what money should get me these days. Last time I had over 1k on my bank account was when I started studying. Living is expensive, but buying cheap is sometimes also expensive.
+
+I want to finish this week with a small quote I got from a TV show:
+A lesson learned is a lesson earned.
+
+
+[previous post](/2020/12/06/sinterklaas)
+
+[next post](#)
