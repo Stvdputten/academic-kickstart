@@ -1,0 +1,43 @@
+---
+title: I Survived
+author: ''
+date: '2020-12-29'
+slug: isurvived
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-29T19:26:57+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Hi, with only a few days remaining in 2020 I want to reflect back a bit. Sorry
+for the delay with posting. After my academic work I decided to sit back and enjoy Christmas. 
+
+My family came to my place and we had a great time. Great relaxation. Not initially, but my oldest sister kept nagging that I should have prepared better.
+
+The cat is killing me. I stopped feeding it and left it outside. After a few days I tried to let in back in but not feeding it at the same time. Well I've never been attacked by a cat so many times in a short time. I got a little bit scared and after a few bites I decided to get some food for the cat. Maybe not the smartest thing, but it kept returning after a few days. I'm assuming it's hard to get food during the winter and the cat was really in survival mode. I put it on a lost & found website. So let's hope the cat is found, otherwise it's going to be a long year. 
+
+With the precious time in this vacation I read some books, finished some shows and at a lot of food. I have to think about my goals for coming few months. The end is getting seriously close and I should probably look for what career moves I should make after this. Currently I'm thinking of junior cloud engineer or something like that. While my study is more focused on statistics and data science, so maybe I should pursue that instead. 
+
+So only 2 days remaining in this year and it wasn't spectacular. I got a long list of goals I want to pursue and I set everything up to make sure I'll achieve everything coming year. Here area few things:
+
+- Complete Masters
+- Get a driving license
+- Find job
+- Move out of Leiden
+- Try some new social experiments
+- Keep this secret diary website alive
+
+Seems easy enough, but depending on corona 2021 it might be an interesting year. Have a great 2021 everyone!
+
+
+[previous post](/2020/12/19/lockdownstrikes)
+
+[next post](#)
