@@ -22,7 +22,7 @@ As promised I'll update how my promises of last week went. I had my birthday on 
 Well let's not beat around the bush, here's my list of promises and if they succeeded:
 
 - [ ] Eat your frogs first
-- [ ] workout
+- [ ] Workout
 - [x] Stop drinking coffee
 - [x] Stop playing AFK arena
 
@@ -45,4 +45,4 @@ Thing I'd like to work on:
 
 [previous post](/2021/01/30/semester2)
 
-[next post](#)
+[next post](/2021/02/14/mindset)
