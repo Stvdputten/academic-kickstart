@@ -1,0 +1,34 @@
+---
+title: The sun is shining
+author: ''
+date: '2021-02-21'
+slug: sunshining
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-02-21T18:55:05+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+... I feel good and nobody is going to stop me now. Well this Sunday I went on a walk with a friend. Really good weather and everyone should regularly take walks to ease the mind. In contrast to last week the weather feels like spring. I accomplished a surprising amount of work this week. First and most importantly my game Persona 5. I finished watching community season 5 and 6. I got a sort of rhythm going. Finally I expect next week to be my first real week of progress. Let's talk about it.
+
+After 120 hours of gaming, I finished one of the longest games I ever played --- Persona 5. Which means 3 weeks of full time gaming, which is insane given that I have engaged with my thesis full time next to it past 4 week. Well that's addiction in a nutshell. I would rate the game 9 out of 10, so if you enjoy story and rpgs and reading a lot than go play it!
+
+Community is a sort of cult sitcom show on Netflix. I recently tried it again, to finish the remaining episodes of season 5 and 6. It brought back memories of my previous home. From when I started watching community last year, around the start of corona last year. It bring a nostalgic feeling and that's why I really like the opening song! Definitely worth a rewatch in the future.
+
+One of my improvements thing week has been about going to the gym again. I went three times. A nice start and in my opinion the least amount of times you should go. If I want to have a nice and fit body I think I should slowly build up to going 5 to 6 times a week. It takes time to get used to such a frequency, but it good for the mind and body. As I noticed, because the after feeling of working out gave me a gentle "high". At the same time, I do a short but nice HIIT training  in the morning to get my body pumped up and active. A few weeks ago when I tried to go to the game I noticed this huge amount of muscle pain afterwards, maybe it's because of the cold and my bad warming-up routine. Let's try to keep this up, most people can and so should I.
+
+Next week will be my first serious attempt on getting my coding part of the Thesis going. So let's see how far I can get. It seems that having a good before bed and morning routine can literally make or break my day. It's not a must obviously, but I think having one is great. So now starting week 4 of my thesis project, let's go.
+
+The last thing I want to briefly mention to myself. The better the weather, the more I want to do everything expect work on my thesis. I should do as much as I can right now and following that I can hopefully get a nice summer break! Let's make most of my time till August!   
+
+[previous post](/2021/02/14/mindset)
+
+[next post](#)
