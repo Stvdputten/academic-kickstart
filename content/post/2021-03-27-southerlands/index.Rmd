@@ -1,0 +1,34 @@
+---
+title: Southerlands
+author: ''
+date: '2021-03-27'
+slug: southerlands
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-03-27T12:08:42+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Hello and welcome back to my weekly post! I am visiting some family, where it pretty seem to be the same as everywhere else. Boring. 
+
+At my uncle I can get some rest and have a sort of small vacation away from my home. Everybody needs a change of scenery to keep sane. I'm not different :). We take walks through the wood and have long talks about all kinds of stuff. Otherwise I'd be at home and just gaming. 
+
+I'll keep my thesis talk brief. If I get my applications running this week on the platform I'm currently using, it should be smooth sailing from here. Otherwise my application might take a bit longer to create. 
+
+I'm reading a few chapters a day. Today I read about a hacker and how to keep your password save. Scatteredsecrets.com and haveIbeenpwned.com are interesting for everyone! Keep a password manager and let those choose your new passwords. Assume to be hacked in the future and have a back-up strategy. 
+
+I'm also starting to get a lot more into fitness and calisthenics. Maybe in a year I can be the fitboy I always dreamed to be. Or I'll become a fat bastard. I hate fat people, jk. 
+
+Stay healthy.
+
+[previous post](/2021/03/20/collab)
+
+[next post](#)
