@@ -1,0 +1,30 @@
+---
+title: Cracking a wall with your hands!
+author: ''
+date: '2021-04-03'
+slug: cracking
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-04-03T12:31:59+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Houston, we got him! Finally after slamming my head against a wall called the "The thesis project". I can finally say I'm cracking the wall. Furthermore tomorrow is Easter and I'll be taken a day off. 
+
+Kubernetes is a complex system to learn. I wasn't fully aware how much I didn't know. Volumes and Ingress are pretty complex but now I start to get a hang of it. Regarding my thesis, I had one job this week and it was to get a few applications running. I have done so only locally through a tedious and tremendous amount of mental effort. I hope the hardest part is complete. After rebuilding, evaluating the applications and trying numerous variations I cracked the code. Only a few more days and everything should be running perfectly and I can get back on track.
+
+Further this week -- The Netherlands has some huge political issues. Mark Rutte might finally fall down from his position. His rain has to stop. -- I read two books, one about being limitless as person and I know your password about cyber crime. -- Again a flawless week of going to the gym! -- Visited some old roommates and stuff. 
+
+Hopefully next week will only be better!
+
+[previous post](/2021/03/27/southerlands)
+
+[next post](#)

@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-Hello and welcome back to my weekly post! I am visiting some family, where it pretty seem to be the same as everywhere else. Boring. 
+Hello and welcome back to my weekly post! I am visiting some family. The south seems to be the same as everywhere else. Boring. 
 
 At my uncle I can get some rest and have a sort of small vacation away from my home. Everybody needs a change of scenery to keep sane. I'm not different :). We take walks through the wood and have long talks about all kinds of stuff. Otherwise I'd be at home and just gaming. 
 
@@ -31,4 +31,4 @@ Stay healthy.
 
 [previous post](/2021/03/20/collab)
 
-[next post](#)
+[next post](/2021/04/03/cracking)
