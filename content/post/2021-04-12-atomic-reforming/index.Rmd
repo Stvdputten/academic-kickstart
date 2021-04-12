@@ -1,0 +1,30 @@
+---
+title: Atomic Reforming
+author: ''
+date: '2021-04-12'
+slug: atomicreforming
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-04-12t11:42:53+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+I wasn't really sure what to talk about this week. So I thought, let's discuss about how I improve myself and basically think.
+
+As the title suggest, when I think about improving myself I try to think about layers and partitions. What do I want to improve? What is the core or basic thing on which I want to improve. An example would be: I want to improve my health. What are layers and how can I start small. Is there much room for improvement? Are my current assumptions of how I'm living healthy correct. What are the main contributors that increase or decrease my health. Are my basics/fundamentals solid? Another example would be a problem I'm having. What is the core problem and how can I solve it. If I find the problem hard to answer, I need to take a step back and better understand what I'm looking at.
+
+Last week I started reading a book about David Goggins. A guy that broke through every level of his mental barriers and improved himself to become better. One of the major take away points of his books is that the limits in your head are self-imposed -- something I belief dearly. As an individual you always have to go through some form of discomfort to grow. If you ever had a hard period in your life, going the extra step seems close to impossible. You always make excuses, but once again things are only limited by your brain. In hindsight those bad periods remind you that there's room to grow and that you have (hopefully) pushed yourself to overcome most issues. There's not yesterday anymore, there's only tomorrow to think about. Knowing your past self could handle shit gives perspective that you are one bad-ass dude that can do more than you realize. I'm still reading it, so far it's a refreshing book reminding myself of tougher times.
+
+The last remaining thing I want to mention is the wacky weather in the Netherlands, rain, hail, snow in April. Who would have though that? Last year that weather was way higher. 
+
+[previous post](/2021/04/03/cracking)
+
+[next post](#)
