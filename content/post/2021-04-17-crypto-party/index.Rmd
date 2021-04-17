@@ -1,0 +1,36 @@
+---
+title: Crypto Party
+author: ''
+date: '2021-04-17'
+slug: cryptoparty
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-04-17T16:45:34+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: [] 
+---
+
+I'm bad at gambling with Crypto. I like to go short and when I has the feeling that I'm missing a quick raise I always buy at a peak, giving me some quick losses. At the same time it's just for fun. Although if I was any good I would be done yet.
+
+In the interest of today, I'll discuss what's keeping me busy right now. Yesterday I finally completed Doom Eternal + DLC. It was epic. Doom is probably the type of games I could see myself playing all my life. I watched the new Justice League Snyder Cut absolutely a recommended watch. I still get nervous when I have to present about stuff I feel is complicated, but having a script is one of the nice advantageous of having online lectures.
+
+So I'm reading a book called Atomic Habits, I like some of the ideas I have read so far. Basically a human can form habits, the habits consists of 4 parts: a cue, a craving, a reaction and a reward. The books discuss these parts one by one and shows how to apply them to remove bad habits or create new ones. 
+
+I mostly read about cues, cues basically exist at specific times and locations. Basically you should think of your environment as a combination of items you associate certain habits with. If you want to change a habit, change the environment to support your good habits such as having fruit in your living room. Motivation is for the weak, changing the environment is much more effect. If you want to remove bad habit, without falling in the automatic mode of performing your bad habit. Each time you get the cue to perform your habit pronounce what you are doing and why you shouldn't do it: "I am going to bite my nail but I don't want to because it's bad for my hands and I am someone who doesn't bite nails." If I recall correctly. Describe your action, the consequence and what identity you have such that you don't bite it. People have a hard time stopping the habit anyways, so one could also try replacing the habit. 
+
+Another approach of building more and new habits is stacking. Basically just add more habits to your current routine, as such stacking habits. Yet another approach is the really build your environment to associate rooms and times with specific actions. People with sleep problems might actually just habitually not be exclusively sleeping in their bed room, which is an example of building bad habits. Only sleep in your bedroom, work in your work room and relax in your living room.  It might be hard to learn a new habit, especially if you aren't specific enough when to perform it. People have a hard time to stack if you do a habit around 1 o'clock, but if you do it when you enter a room or when you are doing x or y then it's much more likely you can build your habits. Also stack habits on habits that happen the same amount. If you only wash you cloth ones a week, you shouldn't try to build a daily gym workout with that habit.
+
+Well that's it for this week. Have a nice week! Oh yeah the title is crypto party because alt coins have been going crazy this week. 
+
+
+
+[previous post](/2021/04/12/atomicreforming)
+
+[next post](#)
