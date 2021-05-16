@@ -1,0 +1,30 @@
+---
+title: 'Regret: Part 1'
+author: ''
+date: '2021-05-16'
+slug: regret
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-05-16T11:27:10+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+I was supposed to work 4 hours a week on a small thing called my thesis. Uh I don't think that worked. So what now? I have to pay my sisters 10 euro each. I don't care but okay. 
+
+Furthermore I had some really nice flow going on Friday and Saturday. I guess lofi in combination with some theme songs of my favorite anime tv shows really brings me into a state of enjoyment. I got a lot of work done on my final programming assignment.
+
+Also I had some of the worst sleep in times. I slept on average below 5 hours a day. In general a person needs 7-9 hours of sleep. In this case I started to read, using a new book called `why we sleep`. Really interesting and recommended. If anything interesting drops, I'll share it. So far the regular stuff you'd expect is true, have a rhythm, sleeping pills don't work, caffeine disturbs your hormones to keep your artificially active. The notion of sleep debt is introduced and if you have too much sleep debt you are suffering of more issues. In short you can't cheat your system. A nice story to keep in mind The influence of caffeine on your lifestyle, living life straight. People who use stimulants get addicted to it, just as you can have sleeping pills influence your sleep. As a result you start to use more pills to 'feel' more asleep but in the meanwhile your sleep debt keeps adding up. In this viscious cycle you have to realize that going back to a system where you don't rely on stimulants is hard; Once you stop you feel worse and worse until you start using again and you feel relieved. This is true to many things on which you feel depended, most of them are artificial and we let's not even talk about placebo's. Anyways next week we will have more to discuss. 
+
+I really regret not having worked enough on my thesis this week. O well...
+
+[previous post](/2021/05/10/trickandtreat)
+
+[next post](#)
