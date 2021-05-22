@@ -1,0 +1,35 @@
+---
+title: 'Only ... 10 weeks remaining'
+author: ''
+date: '2021-05-22'
+slug: Tenweeks
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-05-22T13:06:48+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+With only ten weeks remaining I propose to use this blog for my personal countdown. What are my biggest worries and what must I achieve to get through these rowdy last few weeks. Although sporting and having some relaxing stuff to do is also important. I should just disregard anything that isn't helping me achieve my end goal of graduating. 
+
+First off I need to finish my remaining course stuff. That means:
+-[] Assignment 3.
+-[] Take a few hours to learn about my exam in June. Should be doable in one library session.
+
+What are my primary worries of my thesis:
+-[] Run nomad.
+-[] Actually load testing the application of my benchmark.
+-[] Starting my writing.
+
+Oh god I can almost feel the end!  
+
+[previous post](/2021/05/16/regret)
+
+[next post](#)
