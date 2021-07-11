@@ -2,7 +2,7 @@
 title: Choices
 author: ''
 date: '2021-06-26'
-slug: []
+slug: choices
 categories: []
 tags: []
 subtitle: ''
@@ -31,5 +31,5 @@ I'll most likely make a decision within 1-2 weeks, most likely sooner.
 
 [previous post](/2021/06/12/relaxed)
 
-[next post](#)
+[next post](/2021/07/05/3-weeks-remaining)
 
